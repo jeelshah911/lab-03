@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Jeel Chandresh Shah>`
-- **CCID:** `<jcshah1>`
+- **Full Name:** `Jeel Chandresh Shah`
+- **CCID:** `jcshah1`
 
 ## References and Resources
 
